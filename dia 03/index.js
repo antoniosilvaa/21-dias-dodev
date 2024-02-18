@@ -15,5 +15,5 @@ let imc = 0
 imc = peso / (altura * altura)
 
 console.log ("Olá," + nome, "Você tem," + idade, "anos,", "nasceu em," + anoNasc,
-"tem," + altura, "pesa," + peso, "seu imc è," + imc)
+"tem," + altura, "de altura,", "pesa," + peso, "seu imc è," + imc)
 
