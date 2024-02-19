@@ -1,1 +1,1 @@
-console.log ("estou no meu dia 02 e aprendi git!!!!!")
+console.log ("estou no meu dia 02 e aprendi git!!!!")
