@@ -2,6 +2,7 @@ let nome = ""
 let idade = 0
 nome = prompt("digite seu nome:")
 idade = parseInt(prompt("digite sua idade:"))
+
 const temCarteira = prompt("Você tem carteira de motorista? (sim/não)")
 const temCarro = prompt("Você tem carro? (sim/não)")
  
